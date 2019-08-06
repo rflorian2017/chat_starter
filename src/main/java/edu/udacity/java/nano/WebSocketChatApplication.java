@@ -25,7 +25,7 @@ public class WebSocketChatApplication {
      */
     @GetMapping("/")
     public ModelAndView login() {
-        return new ModelAndView("/login");
+        return new ModelAndView("login");
     }
 
     /**
@@ -38,6 +38,7 @@ public class WebSocketChatApplication {
     	modelAndView.setViewName("chat");
     	//modelAndView.getModel().put("username", username);
     	modelAndView.getModelMap().addAttribute("username", username);
+    	request.getSession().setAttribute("username", username);
     	modelAndView.addObject("username", username);
     	
         return modelAndView;

@@ -1,4 +1,6 @@
-/Users/stephenchen/Downloads/ND035-P01-Project/chatroom-starter/src/main/java/edu/udacity/java/nano/chat/Message.java
-/Users/stephenchen/Downloads/ND035-P01-Project/chatroom-starter/src/main/java/edu/udacity/java/nano/WebSocketChatApplication.java
-/Users/stephenchen/Downloads/ND035-P01-Project/chatroom-starter/src/main/java/edu/udacity/java/nano/chat/WebSocketConfig.java
-/Users/stephenchen/Downloads/ND035-P01-Project/chatroom-starter/src/main/java/edu/udacity/java/nano/chat/WebSocketChatServer.java
+E:\Projects\udacity_java\JDND-master\projects\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano\chat\Message.java
+E:\Projects\udacity_java\JDND-master\projects\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano\chat\WebSocketConfig.java
+E:\Projects\udacity_java\JDND-master\projects\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano\chat\WebSocketChatServer.java
+E:\Projects\udacity_java\JDND-master\projects\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano\chat\MessageDecoder.java
+E:\Projects\udacity_java\JDND-master\projects\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano\chat\MessageEncoder.java
+E:\Projects\udacity_java\JDND-master\projects\P01-Chatroom\starter_code\src\main\java\edu\udacity\java\nano\WebSocketChatApplication.java
